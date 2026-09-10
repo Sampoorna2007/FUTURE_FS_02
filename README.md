@@ -58,7 +58,7 @@ Task-2/
 
 ## Running it locally
 
-You'll need Node.js (v18+) and MongoDB running on port 27017.
+We need Node.js (v18+) and MongoDB running on port 27017.
 
 **Backend**
 ```bash
